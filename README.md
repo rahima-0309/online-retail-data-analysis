@@ -14,4 +14,4 @@ This project involves cleaning and analyzing an online retail dataset using Micr
 
 ## Outcome
 Identified sales trends and gained insights into customer purchasing patterns.
-Dataset Link: https://drive.google.com/file/d/1xZ7kK7VBRG76A89nFkT5h-NR7HoMcKbc/view?usp=sharing
+
